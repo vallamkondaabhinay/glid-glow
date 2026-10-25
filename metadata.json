@@ -1,0 +1,6 @@
+{
+  "name": "Gild & Glow Salon Retention Suite",
+  "description": "Luxurious beauty-tech SaaS platform for high-end salon client retention, automated WhatsApp cadence reminders, visit intelligence, and bespoke guest relationship management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
